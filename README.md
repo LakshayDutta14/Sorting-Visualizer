@@ -1,1 +1,2 @@
 # Sorting-Visualizer
+The project involved the use of tkinter, a Python library used for GUI programming. The program helps to visualize bubble sort algorithm. The user can select the type of algorithm , the speed of swapping , the number of elements in the array and their range using a slide bar and see the working of the algorithm with the help of bar graphs whose height represents the array element.
